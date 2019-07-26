@@ -12,3 +12,31 @@ body {
 .title {
     font-size: 3.4em;
 }
+
+.learn-text {
+    color: #352449;
+}
+
+.paragraph-indent {
+    text-indent: 20px;
+}
+
+.title-one {
+    background-color: #fac769;
+}
+
+.body-text {
+    background-color: #fac769;
+}
+
+.card-title {
+    font-size: 16px;
+}
+
+.offer-text1 {
+    font-size: 16px;
+}
+
+.offer-text2 {
+    font-size: 31px;
+}
