@@ -40,3 +40,42 @@ body {
 .offer-text2 {
     font-size: 31px;
 }
+
+.title-num {
+    font-size: 16px;
+}
+
+.paragraph-num {
+    color: #767676;
+    font-size: 16px;
+}
+
+.more-text {
+    color: #fac769;
+}
+
+.map-text1 {
+    color: #767676;
+    font-size: 16px;
+}
+
+.map-text2 {
+    font-size: 32px;
+}
+
+.list ul li {
+    display: inline-block;
+    padding-right: 15px;
+}
+
+.bottom-center {
+    color: #767676;
+}
+
+.font-height {
+    height: 35px;
+    width: 35px;
+    background-color: #fac769;
+    display: table-cell;
+    vertical-align: middle;
+}
